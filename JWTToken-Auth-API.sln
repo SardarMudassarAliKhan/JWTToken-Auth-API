@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTToken-Auth-API", "JWTToken-Auth-API.csproj", "{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken-Auth-BAL", "..\JWToken-Auth-BAL\JWToken-Auth-BAL\JWToken-Auth-BAL.csproj", "{B192C90F-CE1F-4375-9125-E33A7E11F15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken-Auth-DAL", "..\JWToken-Auth-DAL\JWToken-Auth-DAL\JWToken-Auth-DAL.csproj", "{163B1B7A-1064-4507-A04B-A7129C55B9FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6BA2425-D164-4668-91F6-AC5B13E3D97B}
+	EndGlobalSection
+EndGlobal
