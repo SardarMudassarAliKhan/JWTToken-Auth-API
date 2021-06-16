@@ -10,8 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JWToken-Auth-BAL\JWToken-Auth-BAL\JWToken-Auth-BAL.csproj" />
-    <ProjectReference Include="..\JWToken-Auth-DAL\JWToken-Auth-DAL\JWToken-Auth-DAL.csproj" />
+    <ProjectReference Include="..\JWToken-Auth-BAL\JWToken-Auth-BAL.csproj" />
+    <ProjectReference Include="..\JWToken-Auth-DAL\JWToken-Auth-DAL.csproj" />
   </ItemGroup>
 
 </Project>

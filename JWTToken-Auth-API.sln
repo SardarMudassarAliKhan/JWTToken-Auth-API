@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTToken-Auth-API", "JWTToken-Auth-API.csproj", "{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTToken-Auth-API", "JWTToken-Auth-API.csproj", "{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken-Auth-BAL", "..\JWToken-Auth-BAL\JWToken-Auth-BAL\JWToken-Auth-BAL.csproj", "{B192C90F-CE1F-4375-9125-E33A7E11F15D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken-Auth-DAL", "..\JWToken-Auth-DAL\JWToken-Auth-DAL.csproj", "{1BA129B1-4C39-43B5-8E78-CA956A701E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken-Auth-DAL", "..\JWToken-Auth-DAL\JWToken-Auth-DAL\JWToken-Auth-DAL.csproj", "{163B1B7A-1064-4507-A04B-A7129C55B9FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWToken-Auth-BAL", "..\JWToken-Auth-BAL\JWToken-Auth-BAL.csproj", "{5398117F-BC7C-47C5-B9A3-F206E2FA780C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E8FEFC5-96E6-4C7F-91BE-F8C78464C6FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B192C90F-CE1F-4375-9125-E33A7E11F15D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{163B1B7A-1064-4507-A04B-A7129C55B9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA129B1-4C39-43B5-8E78-CA956A701E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA129B1-4C39-43B5-8E78-CA956A701E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA129B1-4C39-43B5-8E78-CA956A701E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA129B1-4C39-43B5-8E78-CA956A701E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5398117F-BC7C-47C5-B9A3-F206E2FA780C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5398117F-BC7C-47C5-B9A3-F206E2FA780C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5398117F-BC7C-47C5-B9A3-F206E2FA780C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5398117F-BC7C-47C5-B9A3-F206E2FA780C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
